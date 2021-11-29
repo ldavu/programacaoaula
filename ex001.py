@@ -7,6 +7,8 @@ historia_Mostrar()
 #variável de controle da repetição
 repetir = "sim"
 
+
+
 numero_Random1 = random.randint(1,9)
 numero_Random2 = random.randint(1,9)
 numero_Random3 = random.randint(1,9)
