@@ -11,3 +11,7 @@ def mostrarMenu():
     print("7 - Tapete")
     print("8 - Espelho")
     print("9 - Estante")
+    
+    # pega a opção escolhida
+    resposta = input("Digite um número de 0 a 9: ")
+    return resposta
