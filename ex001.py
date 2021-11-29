@@ -1,6 +1,6 @@
 from time import sleep
 import random
-"""
+
 print("O Código Secreto")
 sleep(2)
 print("Na noite passada, você foi dormir normalmente em seu quarto...")
@@ -13,7 +13,7 @@ print("Mas você não tem nem ideia de que senha é essa.")
 sleep(2)
 print("Procure ao seu redor por objetos que possam conter pistas...")
 sleep(2)
-"""
+
 
 #variável de controle da repetição
 repetir = "sim"
